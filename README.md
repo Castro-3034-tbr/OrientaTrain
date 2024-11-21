@@ -1,7 +1,7 @@
 # OrientaTrain
 Sistema de Geolocalización para Entrenamiento de Orientación
 
-```markdown
+
 # Proyecto de Entrenamiento de Orientación
 
 Este proyecto tiene como objetivo proporcionar un sistema de geolocalización para entrenamientos de orientación. A través de una aplicación móvil, los usuarios pueden interactuar con balizas geolocalizadas por GPS. El sistema almacena datos en una base de datos MySQL y se puede administrar desde una página web.
